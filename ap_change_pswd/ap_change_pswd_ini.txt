@@ -1,0 +1,7 @@
+index.php
+exercicios
+ap_change_pswd
+NAO
+contr
+ap_change_pswd
+LigMd5

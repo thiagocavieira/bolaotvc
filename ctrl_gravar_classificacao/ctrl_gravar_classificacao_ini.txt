@@ -1,0 +1,7 @@
+index.php
+exercicios
+ctrl_gravar_classificacao
+SIM
+contr
+ctrl_gravar_classificacao
+LigMd5

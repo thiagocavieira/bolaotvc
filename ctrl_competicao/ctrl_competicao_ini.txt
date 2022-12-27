@@ -1,0 +1,7 @@
+index.php
+exercicios
+ctrl_competicao
+SIM
+contr
+ctrl_competicao
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+exercicios
+ctrl_gravar_jogos
+NAO
+contr
+ctrl_gravar_jogos
+LigMd5

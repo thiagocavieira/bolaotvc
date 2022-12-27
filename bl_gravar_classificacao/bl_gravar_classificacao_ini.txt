@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_gravar_classificacao
+NAO
+blank
+bl_gravar_classificacao
+LigMd5

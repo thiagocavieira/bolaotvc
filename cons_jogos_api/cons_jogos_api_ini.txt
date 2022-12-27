@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_jogos_api
+SIM
+cons
+cons_jogos_api
+LigMd5

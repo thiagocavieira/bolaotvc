@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_rodadas
+SIM
+cons
+cons_rodadas
+LigMd5

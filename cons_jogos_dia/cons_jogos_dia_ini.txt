@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_jogos_dia
+NAO
+cons
+cons_jogos_dia
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+exercicios
+form_temporadas
+SIM
+form
+form_temporadas
+LigMd5

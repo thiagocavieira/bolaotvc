@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_calcular_apostas
+NAO
+blank
+bl_calcular_apostas
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_api_jogos_comps
+NAO
+blank
+bl_api_jogos_comps
+LigMd5

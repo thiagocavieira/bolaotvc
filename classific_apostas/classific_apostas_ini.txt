@@ -1,0 +1,7 @@
+index.php
+exercicios
+classific_apostas
+NAO
+cons
+classific_apostas
+LigMd5

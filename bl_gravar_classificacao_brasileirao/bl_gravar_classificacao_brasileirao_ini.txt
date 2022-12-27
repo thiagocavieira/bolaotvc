@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_gravar_classificacao_brasileirao
+NAO
+blank
+bl_gravar_classificacao_brasileirao
+LigMd5

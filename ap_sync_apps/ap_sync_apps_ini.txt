@@ -1,0 +1,7 @@
+index.php
+exercicios
+ap_sync_apps
+SIM
+contr
+ap_sync_apps
+LigMd5

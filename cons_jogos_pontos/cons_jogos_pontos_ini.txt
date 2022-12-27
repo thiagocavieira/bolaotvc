@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_jogos_pontos
+NAO
+cons
+cons_jogos_pontos
+LigMd5

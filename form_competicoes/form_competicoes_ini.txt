@@ -1,0 +1,7 @@
+index.php
+exercicios
+form_competicoes
+SIM
+form
+form_competicoes
+LigMd5

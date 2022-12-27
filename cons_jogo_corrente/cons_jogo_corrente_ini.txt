@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_jogo_corrente
+NAO
+cons
+cons_jogo_corrente
+LigMd5

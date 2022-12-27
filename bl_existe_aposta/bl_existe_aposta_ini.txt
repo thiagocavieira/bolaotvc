@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_existe_aposta
+NAO
+blank
+bl_existe_aposta
+LigMd5

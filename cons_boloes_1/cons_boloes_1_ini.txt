@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_boloes_1
+NAO
+cons
+cons_boloes_1
+LigMd5

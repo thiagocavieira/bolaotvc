@@ -1,0 +1,7 @@
+index.php
+exercicios
+ctrl_trocar_bolao
+NAO
+contr
+ctrl_trocar_bolao
+LigMd5

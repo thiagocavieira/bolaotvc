@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_temporadas
+SIM
+cons
+cons_temporadas
+LigMd5

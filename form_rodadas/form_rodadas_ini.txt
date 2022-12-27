@@ -1,0 +1,7 @@
+index.php
+exercicios
+form_rodadas
+SIM
+form
+form_rodadas
+LigMd5

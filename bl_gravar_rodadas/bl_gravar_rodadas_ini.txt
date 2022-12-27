@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_gravar_rodadas
+NAO
+blank
+bl_gravar_rodadas
+LigMd5

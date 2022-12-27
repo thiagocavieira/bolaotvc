@@ -1,0 +1,7 @@
+index.php
+exercicios
+grid_apostas_copa
+NAO
+cons
+grid_apostas_copa
+LigMd5

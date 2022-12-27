@@ -1,0 +1,16 @@
+.css_nome_apostador_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nome_apostador_grid_line {vertical-align: top;text-align: center;}
+.css_time_casa_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_time_casa_grid_line {text-align: center;}
+.css_placar_casa_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_placar_casa_grid_line {vertical-align: top;text-align: center;}
+.css_x_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_x_grid_line {text-align: center;}
+.css_placar_fora_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_placar_fora_grid_line {vertical-align: top;text-align: center;}
+.css_time_visitante_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_time_visitante_grid_line {text-align: center;}
+.css_aposta_copa_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_aposta_copa_id_grid_line {vertical-align: top;text-align: right;}
+.css_jogo_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_jogo_id_grid_line {vertical-align: top;text-align: right;}

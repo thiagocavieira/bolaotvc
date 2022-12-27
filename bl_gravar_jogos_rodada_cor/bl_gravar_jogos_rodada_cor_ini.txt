@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_gravar_jogos_rodada_cor
+NAO
+blank
+bl_gravar_jogos_rodada_cor
+LigMd5

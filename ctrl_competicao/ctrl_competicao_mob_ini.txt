@@ -1,0 +1,7 @@
+ctrl_competicao_mob.php
+exercicios
+ctrl_competicao_mob
+SIM
+contr
+ctrl_competicao
+LigMd5

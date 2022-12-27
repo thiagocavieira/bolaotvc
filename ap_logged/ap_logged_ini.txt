@@ -1,0 +1,7 @@
+index.php
+exercicios
+ap_logged
+SIM
+contr
+ap_logged
+LigMd5

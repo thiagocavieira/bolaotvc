@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_apostas
+SIM
+cons
+cons_apostas
+LigMd5

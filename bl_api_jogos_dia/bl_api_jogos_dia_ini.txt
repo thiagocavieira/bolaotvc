@@ -1,0 +1,7 @@
+index.php
+exercicios
+bl_api_jogos_dia
+NAO
+blank
+bl_api_jogos_dia
+LigMd5

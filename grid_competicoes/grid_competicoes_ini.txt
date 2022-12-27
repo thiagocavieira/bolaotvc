@@ -1,0 +1,7 @@
+index.php
+exercicios
+grid_competicoes
+SIM
+cons
+grid_competicoes
+LigMd5

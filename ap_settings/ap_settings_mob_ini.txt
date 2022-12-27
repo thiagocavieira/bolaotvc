@@ -1,0 +1,7 @@
+ap_settings_mob.php
+exercicios
+ap_settings_mob
+SIM
+contr
+ap_settings
+LigMd5

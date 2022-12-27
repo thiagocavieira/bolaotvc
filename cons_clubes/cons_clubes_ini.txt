@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_clubes
+SIM
+cons
+cons_clubes
+LigMd5

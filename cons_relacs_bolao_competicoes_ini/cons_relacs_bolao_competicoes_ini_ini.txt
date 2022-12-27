@@ -1,0 +1,7 @@
+index.php
+exercicios
+cons_relacs_bolao_competicoes_ini
+NAO
+cons
+cons_relacs_bolao_competicoes_ini
+LigMd5
